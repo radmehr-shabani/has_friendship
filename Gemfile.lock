@@ -2,9 +2,9 @@ PATH
   remote: .
   specs:
     has_friendship (1.1.8)
-      activemodel (>= 4.2.0, < 7.0.4)
-      activerecord (>= 4.2.0, < 7.0.4)
-      activesupport (>= 4.2.0, < 7.0.4)
+      activemodel (>= 4.2.0, < 7.0.4.1)
+      activerecord (>= 4.2.0, < 7.0.4.1)
+      activesupport (>= 4.2.0, < 7.0.4.1)
       stateful_enum
 
 GEM
